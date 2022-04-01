@@ -1,7 +1,7 @@
 export const sliderItems = [
   {
     id: 1,
-    img: "https://o.remove.bg/downloads/fcbf996f-cbab-4034-ae3e-655b276bae78/pexels-marlene-lepp%C3%A4nen-1183266-removebg-preview.png",
+    img: "https://preview.redd.it/r44v65h77uq81.png?width=640&crop=smart&auto=webp&s=8c877b50dab08cbefd55d5626e886fc83785e702",
 
     title: "WINTER SALE",
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
@@ -9,14 +9,16 @@ export const sliderItems = [
   },
   {
     id: 2,
-    img: "https://i.ibb.co/DG69bQ4/2.png",
+    // img: "https://i.ibb.co/DG69bQ4/2.png",
+    img: "https://i.redd.it/k5nzk8cm9uq81.png",
     title: "SUMMER COLLECTION",
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
     bg: "fcf1ed",
   },
   {
     id: 3,
-    img: "https://i.ibb.co/cXFnLLV/3.png",
+    // img: "https://i.ibb.co/cXFnLLV/3.png",
+    img: "https://i.redd.it/8t2h1aox9uq81.png",
     title: "LOUNGEWEAR LOVE",
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
     bg: "fbf0f4",
