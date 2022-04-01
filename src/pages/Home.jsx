@@ -3,6 +3,7 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import Slider from "../components/Slider";
 import Categories from "../components/Categories";
+import Products from "../components/Products";
 
 // List all the components here
 const Home = () => {
@@ -12,6 +13,7 @@ const Home = () => {
       <Navbar />
       <Slider />
       <Categories />
+      <Products />
     </div>
   );
 };
