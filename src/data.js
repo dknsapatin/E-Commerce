@@ -50,7 +50,7 @@ export const popularProducts = [
   },
   {
     id: 2,
-    img: "https://png2.cleanpng.com/sh/6fac727cbf48c1dfa4940050dfc06edf/L0KzQYm3VMAzN5DBj5H0aYP2gLBuTfhwd5VufZ9zYXPudcW0jvlsbV51eeR0YT3nf8j1TfZmaaVtfeQ2anHme7b7TcVia2NpftgCY3W6QoW9Tsc5PGI7S6s6MUW1Qoi5UMc2QWk5Tag3cH7q/kisspng-hoodie-jacket-nike-parka-down-feather-jacket-5ac2dff7ce7246.7841639115227207598456.png",
+    img: "https://i.redd.it/58k6x7d5ckr81.png",
   },
   {
     id: 3,
@@ -70,7 +70,7 @@ export const popularProducts = [
   },
   {
     id: 7,
-    img: "https://png2.cleanpng.com/sh/a30b0eca1b2d02c16bcf759ab6fb4c7d/L0KzQYm3V8E2N6FugJH0aYP2gLBuTfhwd5VufZ92ZYLsfrE0lB9wdF51h95qcj3pfLbsgBUucpJog9d9LXf4iX7wjr1raZRwfeY2NXK3cojpWcY0PGE4faY3NEa1SIi6VsUyPWQ2Tqk8NEm3QoK6Ub5xdpg=/kisspng-hoodie-merino-wool-polar-fleece-jacket-guy-in-jacket-5b4b7b963403e4.4628736515316734942131.png",
+    img: "https://i.redd.it/186frme69kr81.png",
   },
   {
     id: 8,
